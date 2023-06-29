@@ -13,7 +13,7 @@
 
 
 - 👋 Hi, I’m Student in Knowledge Institute Of Technology.
-- 💼 I'm a Ethical Hacker,Web Developer.
+- 💼 I'm a Ethical Hacker, Data Analyst and Web Developer.
 - :smile: Pro Hacker on Hack The Box.
 - 💬 Talk to me about Ethical hacking, CTF Challenges, Machine Learning and Data Analysisng 
 - 👯 I am looking to connect with Experts in this field of Hacking. 
