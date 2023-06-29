@@ -18,7 +18,7 @@
 - 💬 Talk to me about Ethical hacking, CTF Challenges, Machine Learning and Data Analysisng 
 - 👯 I am looking to connect with Experts in this field of Hacking. 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://img.icons8.com/?size=512&id=N5H8YRvduAGy&format=png" width = 32px> </h2>
 <br>
 <div>
   <p style="display: inline-block;" align="center">
@@ -28,6 +28,7 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+      <img width="30px" src="https://img.icons8.com/?size=512&id=40670&format=png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
     </kbd>
     <kbd>
