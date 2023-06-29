@@ -155,5 +155,8 @@
 
 ## Popular Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shabari-K-S&repo=Student-Mark-prediction)](https://github.com/Shabari-K-S/Student-Mark-prediction)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shabari-K-S&repo=Encryption_-_Decryption_With_Python)](https://github.com/Shabari-K-S/Encryption_-_Decryption_With_Python)
 
 ----------------------------------------------------------------------
