@@ -9,6 +9,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 ## **About me** 👨‍💻 
 
 
@@ -16,7 +17,9 @@
 - 💼 I'm a Ethical Hacker, Data Analyst and Web Developer.
 - :smile: Pro Hacker on Hack The Box.
 - 💬 Talk to me about Ethical hacking, CTF Challenges, Machine Learning and Data Analysisng 
-- 👯 I am looking to connect with Experts in this field of Hacking. 
+- 👯 I am looking to connect with Experts in this field of Hacking.
+
+<hr>
 
 <h2> Skills <img src = "https://img.icons8.com/?size=512&id=N5H8YRvduAGy&format=png" width = 32px> </h2>
 <br>
@@ -92,6 +95,7 @@
   </p>
 </div>
 <br>
+<hr>
 
 <h2> Operating System 🐧 </h2>
 <br>
@@ -113,7 +117,9 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
 	
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shabari-K-S&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Shabari-K-S&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shabari-K-S&theme=graywhite&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shabari-K-S&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </details>
 
 
@@ -122,5 +128,9 @@
   <img src="snake.svg" />
 
 </details>
+
+<hr>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
