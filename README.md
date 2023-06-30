@@ -100,7 +100,8 @@
 <br>
 <p align='center'>
 <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
 </p>
@@ -116,8 +117,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shabari-K-S&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shabari-K-S&theme=graywhite&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shabari-K-S&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<img src="snake.svg" />
 </details>
 
 
@@ -127,12 +126,4 @@
 
 </details>
 
-<br/>
-
-## Popular Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shabari-K-S&repo=Student-Mark-prediction)](https://github.com/Shabari-K-S/Student-Mark-prediction)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shabari-K-S&repo=Encryption_-_Decryption_With_Python)](https://github.com/Shabari-K-S/Encryption_-_Decryption_With_Python)
-
-----------------------------------------------------------------------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
