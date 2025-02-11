@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Programming Languages
 
-<div style="display: flex; flex-wrap: wrap; flex-direction: row;">
+<div style="display: flex; flex-wrap: wrap; flex-direction: row; backgroud-color:white; border: 1px solid black; width: 28%; padding:10px; border-radius:10px; gap:8px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40px">
 <img src="https://img.icons8.com/?size=512&id=40670&format=png" width="40px">
@@ -20,14 +20,14 @@
 
 ### ⚙️ Back-End Development
 
-<div style="display: flex; flex-wrap: wrap; flex-direction: row;">
+<div style="display: flex; flex-wrap: wrap; flex-direction: row; backgroud-color:white; border: 1px solid black; width: 13%; padding:10px; border-radius:10px; gap:8px">
 <img src="https://img.icons8.com/?size=512&id=hCWb1IvpcBZ0&format=png" width="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px">
 </div>
 
 ### 🎨 Front-End Development
 
-<div style="display: flex; flex-wrap: wrap; flex-direction: row;">
+<div style="display: flex; flex-wrap: wrap; flex-direction: row; backgroud-color:white; border: 1px solid black; width: 34%; padding:10px; border-radius:10px; gap:8px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" alt="CSS3">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React">
@@ -38,14 +38,14 @@
 
 ### 🗄️ Databases
 
-<div style="display: flex; flex-wrap: wrap; flex-direction: row;">
+<div style="display: flex; flex-wrap: wrap; flex-direction: row; backgroud-color:white; border: 1px solid black; width: 14%; padding:10px; border-radius:10px;gap:8px">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"  width="40" height="40" alt="Mysql" style="color:white">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px">
 </div>
 
 ### 🤖 AI & Data Science
 
-<div style="display: flex; flex-wrap: wrap; flex-direction: row;">
+<div style="display: flex; flex-wrap: wrap; flex-direction: row; backgroud-color:white; border: 1px solid black; width: 28%; padding:10px; border-radius:10px; gap:8px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px">
@@ -54,7 +54,7 @@
 
 ### 🚀 Deployment & Systems
 
-<div style="display: flex; flex-wrap: wrap; flex-direction: row;">
+<div style="display: flex; flex-wrap: wrap; flex-direction: row; backgroud-color:white; border: 1px solid black; width: 13%; padding:10px; border-radius:10px; gap:8px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40px">
 <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_477db83f729d63210139ec7cd29c1351/render-render.png" width="40px">
 </div>
