@@ -1,15 +1,11 @@
 # Hi, I'm Shabari K S! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
----
-
 ## 🚀 About Me
 - 🎓 Final Year B.Tech CSE Student @ Knowledge Institute Of Technology
 - 💼 Ethical Hacker, Data Analyst & Web Developer
 - 🏆 Pro Hacker on Hack The Box
 - 🧠 Passionate about CTF Challenges, Machine Learning & Data Analysis
 - 🤝 Looking to connect with Experts in Hacking & Cybersecurity
-
----
 
 ## 🛠 Skills
 
