@@ -39,7 +39,7 @@
 ### 🗄️ Databases
 
 <div style="display: flex; flex-wrap: wrap; flex-direction: row;">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"  width="40" height="40" alt="Mysql">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"  width="40" height="40" alt="Mysql" style="color:white">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px">
 </div>
 
