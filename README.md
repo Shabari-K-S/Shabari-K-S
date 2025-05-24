@@ -1,11 +1,13 @@
 # Hi, I'm Shabari K S! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 🚀 About Me
-- 🎓 Final Year B.Tech CSE Student @ Knowledge Institute Of Technology
-- 💼 Ethical Hacker, Data Analyst & Web Developer
-- 🏆 Pro Hacker on Hack The Box
-- 🧠 Passionate about CTF Challenges, Machine Learning & Data Analysis
-- 🤝 Looking to connect with Experts in Hacking & Cybersecurity
+
+* 🎓 Final Year B.Tech CSE Student @ Knowledge Institute Of Technology, Salem, Tamil Nadu
+* 💼 Ethical Hacker | Data Analyst | Full-Stack Web Developer
+* 🏆 Pro Hacker on Hack The Box
+* 🧠 Obsessed with CTFs, System Programming, Cybersecurity & Data Analysis
+* 🔭 Currently working on PCI Tree Analyzer (EFI Application), Cybersecurity-based projects & SaaS products using Next.js
+* 🤝 Looking to connect with Hackers, Cybersecurity Experts & Open-Source Devs
 
 ## 🛠 Skills
 
@@ -34,7 +36,6 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/next-dot-js.svg"  width="40" height="40" alt="Next JS">
 </div>
-
 
 ### 🗄️ Databases
 
@@ -71,9 +72,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shabari-K-S&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shabari-K-S&theme=graywhite&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shabari-K-S&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shabari-K-S\&theme=graywhite\&hide_border=false\&include_all_commits=false\&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shabari-K-S\&theme=graywhite\&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shabari-K-S\&theme=graywhite\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ## 🤝 Connect With Me
 
@@ -90,4 +91,4 @@
 ---
 
 Thanks for stopping by! 😊
-
+Let’s build and break things together! 🛠️🔥
