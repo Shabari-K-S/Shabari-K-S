@@ -21,12 +21,11 @@
 </div>  
 
 <!--Intro start-->  
-- 🔭 Currently working on **PCI Tree Analyzer (EFI), SaaS Products, Cybersecurity Projects**  
+- 🔭 Currently working in **AMI**
 - 🌱 Learning and exploring **Advanced System Programming & Cloud Security**  
 - 🧠 Enthusiast of **CTFs, Ethical Hacking & Data Analysis**  
 - 💬 Ask me about **Linux, System Programming, Ethical Hacking, C/C++, Next.js**  
-- 📫 Reach me at **shabari-k-s@example.com**  
-- 🏠 Discord: **shabari#1234** (Feel free to drop a hello!)  
+- 📫 Reach me at **shabaricse2003@gmail.com**  
 <!--Intro end-->  
 
 <!--- stats & Trophy (start) -->  
@@ -87,10 +86,3 @@
 <a href="https://www.instagram.com/_.sourcecode._/" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=YtpeVQhQ8USm&format=png" alt="Instagram" height="50" width="50"/></a>  
 <a href="https://www.youtube.com/channel/UCJWp7G3LM2-b2tFMT-eyrAA" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=XnsQJWiCOaJw&format=png" alt="YouTube" height="50" width="50"/></a>  
 </p>  
-
-<!--profile visit count-->  
-<div align="center">  
-  
-![](https://visitcount.itsvg.in/api?id=Shabari-K-S&icon=(https://visitcount.itsvg))
-
-</div>
