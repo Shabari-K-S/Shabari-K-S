@@ -1,94 +1,96 @@
-# Hi, I'm Shabari K S! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!--horizontal divider(gradiant)-->  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--h1 without bottom border-->  
+<div id="user-content-toc">  
+  <ul align="center">  
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Shabari K S</h1></summary>  
+  </ul>  
+</div>  
 
-## 🚀 About Me
+<!--- snake -->  
+<div align="center">  
+  <img  src="./snake.svg"  
+       alt="snake" />  
+</div>  
 
-* 🎓 Final Year B.Tech CSE Student @ Knowledge Institute Of Technology, Salem, Tamil Nadu
-* 💼 Ethical Hacker | Data Analyst | Full-Stack Web Developer
-* 🏆 Pro Hacker on Hack The Box
-* 🧠 Obsessed with CTFs, System Programming, Cybersecurity & Data Analysis
-* 🔭 Currently working on PCI Tree Analyzer (EFI Application), Cybersecurity-based projects & SaaS products using Next.js
-* 🤝 Looking to connect with Hackers, Cybersecurity Experts & Open-Source Devs
+<!--h2 without bottom border-->  
+<div id="user-content-toc">  
+  <ul align="center">  
+    <summary><h2 style="display: inline-block">Passionate about Cybersecurity & Software</h2></summary>  
+  </ul>  
+</div>  
 
-## 🛠 Skills
+<!--Intro start-->  
+- 🔭 Currently working on **PCI Tree Analyzer (EFI), SaaS Products, Cybersecurity Projects**  
+- 🌱 Learning and exploring **Advanced System Programming & Cloud Security**  
+- 🧠 Enthusiast of **CTFs, Ethical Hacking & Data Analysis**  
+- 💬 Ask me about **Linux, System Programming, Ethical Hacking, C/C++, Next.js**  
+- 📫 Reach me at **shabari-k-s@example.com**  
+- 🏠 Discord: **shabari#1234** (Feel free to drop a hello!)  
+<!--Intro end-->  
 
-### 👨‍💻 Programming Languages
+<!--- stats & Trophy (start) -->  
+<p align="center">  
+  <!--- stats (start) -->  
+<table align="center">  
+<tr border="none">  
+<td width="50%" align="center">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shabari-K-S&theme=radical&show_icons=true&count_private=true" />  
+  <br><br>  
+  <img title="🔥 GitHub Streak" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shabari-K-S&theme=radical&hide_border=false" />  
+</td>  
+<td width="50%" align="center">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabari-K-S&theme=radical&layout=compact&hide_border=false" />  
+</td>  
+</tr>  
+</table>  
+<!--- stats (end) -->  
 
-<div style="display: flex; flex-wrap: wrap; flex-direction: row; background: white; border: 1px solid black; width: 28%; padding:10px; border-radius:10px; gap:8px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40px">
-<img src="https://img.icons8.com/?size=512&id=40670&format=png" width="40px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px">
+<!--- trophy (start) -->  
+<div align="center">  
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Profile Trophy">  
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Shabari-K-S&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" />  
+  </a>  
+</div>  
+<!--- trophy (end) -->  
+</p>  
+
+<!--h1 without bottom border-->  
+<div id="user-content-toc">  
+  <ul align="center">  
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>  
+  </ul>  
+</div>  
+
+<!--tech stack icons-->  
+<p align="center">  
+  <a href="https://skillicons.dev">  
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,react,nextjs,tailwind,mysql,postgres,linux,git,docker,tensorflow,pandas,numpy&perline=14" />  
+  </a>  
+</p>  
+
+<!-- Connect with me -->  
+<!--h2 without bottom border-->  
+<div id="user-content-toc">  
+  <ul align="center">  
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>  
+  </ul>  
+</div>  
+
+<!--icons and links-->  
+<p align="center">  
+<a href="https://shabari-portfolio.onrender.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=115635&format=png" alt="Portfolio" height="50" width="50"/></a>  
+<a href="https://linkedin.com/in/shabari-k-s-56421822a" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=60ZV_wYC0BM2&format=png" alt="LinkedIn" height="50" width="50"/></a>  
+<a href="https://github.com/Shabari-K-S" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=iEBcQcM9rnZ9&format=png" alt="GitHub" height="50" width="50"/></a>  
+<a href="https://app.hackthebox.com/profile/1104708" target="_blank"><img align="center" src="http://www.hackthebox.eu/badge/image/1104708" alt="Hack The Box" height="50" width="50"/></a>  
+<a href="https://twitter.com/shabari0910" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=6BmXkftCQhH8&format=png" alt="Twitter" height="50" width="50"/></a>  
+<a href="https://www.instagram.com/_.sourcecode._/" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=YtpeVQhQ8USm&format=png" alt="Instagram" height="50" width="50"/></a>  
+<a href="https://www.youtube.com/channel/UCJWp7G3LM2-b2tFMT-eyrAA" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=XnsQJWiCOaJw&format=png" alt="YouTube" height="50" width="50"/></a>  
+</p>  
+
+<!--profile visit count-->  
+<div align="center">  
+  
+![](https://visitcount.itsvg.in/api?id=Shabari-K-S&icon=(https://visitcount.itsvg))
+
 </div>
-
-### ⚙️ Back-End Development
-
-<div style="display: flex; flex-wrap: wrap; flex-direction: row; background: white; border: 1px solid black; width: 13%; padding:10px; border-radius:10px; gap:8px">
-<img src="https://img.icons8.com/?size=512&id=hCWb1IvpcBZ0&format=png" width="40px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px">
-</div>
-
-### 🎨 Front-End Development
-
-<div style="display: flex; flex-wrap: wrap; flex-direction: row; background: white; border: 1px solid black; width: 34%; padding:10px; border-radius:10px; gap:8px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" alt="CSS3">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/next-dot-js.svg"  width="40" height="40" alt="Next JS">
-</div>
-
-### 🗄️ Databases
-
-<div style="display: flex; flex-wrap: wrap; flex-direction: row; background: white; border: 1px solid black; width: 14%; padding:10px; border-radius:10px;gap:8px">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"  width="40" height="40" alt="Mysql" style="color:white">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px">
-</div>
-
-### 🤖 AI & Data Science
-
-<div style="display: flex; flex-wrap: wrap; flex-direction: row; background: white; border: 1px solid black; width: 28%; padding:10px; border-radius:10px; gap:8px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px">
-</div>
-
-### 🚀 Deployment & Systems
-
-<div style="display: flex; flex-wrap: wrap; flex-direction: row; background: white; border: 1px solid black; width: 13%; padding:10px; border-radius:10px; gap:8px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40px">
-<img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_477db83f729d63210139ec7cd29c1351/render-render.png" width="40px">
-</div>
-
-### 🖥️ Operating Systems
-
-<div style="display: flex; flex-wrap: wrap; flex-direction: row; gap: 10px;">
-    <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
-    <img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" alt="Tails">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-</div>
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shabari-K-S\&theme=graywhite\&hide_border=false\&include_all_commits=false\&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shabari-K-S\&theme=graywhite\&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shabari-K-S\&theme=graywhite\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
-
-## 🤝 Connect With Me
-
-<p align="center">
-    <a href="https://shabari-portfolio.onrender.com/" target="_blank"><img src="https://img.icons8.com/?size=512&id=115635&format=png" width="50px"></a>
-    <a href="https://linkedin.com/in/shabari-k-s-56421822a" target="_blank"><img src="https://img.icons8.com/?size=512&id=60ZV_wYC0BM2&format=png" width="50px"></a>
-    <a href="https://github.com/Shabari-K-S" target="_blank"><img src="https://img.icons8.com/?size=512&id=iEBcQcM9rnZ9&format=png" width="60px"></a>
-    <a href="https://app.hackthebox.com/profile/1104708" target="_blank"><img src="http://www.hackthebox.eu/badge/image/1104708" alt="Hack The Box"></a>
-    <a href="https://twitter.com/shabari0910" target="_blank"><img src="https://img.icons8.com/?size=512&id=6BmXkftCQhH8&format=png" width="50px"></a>
-    <a href="https://www.instagram.com/_.sourcecode._/" target="_blank"><img src="https://img.icons8.com/?size=512&id=YtpeVQhQ8USm&format=png" width="60px"></a>
-    <a href="https://www.youtube.com/channel/UCJWp7G3LM2-b2tFMT-eyrAA" target="_blank"><img src="https://img.icons8.com/?size=512&id=XnsQJWiCOaJw&format=png" width="60px"></a>
-</p>
-
----
-
-Thanks for stopping by! 😊
-Let’s build and break things together! 🛠️🔥
