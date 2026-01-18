@@ -18,10 +18,10 @@
 
 ## Connect With Me 🤝
 
-<a href="https://shabari-portfolio.onrender.com" target="_blank"><img src="https://img.icons8.com/?size=512&id=115635&format=png" alt="Portfolio" height="50" width="50"/></a>
-<a href="https://linkedin.com/in/shabari-k-s-56421822a" target="_blank"><img src="https://img.icons8.com/?size=512&id=60ZV_wYC0BM2&format=png" alt="LinkedIn" height="50" width="50"/></a>
-<a href="https://github.com/Shabari-K-S" target="_blank"><img src="https://img.icons8.com/?size=512&id=iEBcQcM9rnZ9&format=png" alt="GitHub" height="50" width="50"/></a>
-<a href="https://twitter.com/shabari0910" target="_blank"><img src="https://img.icons8.com/?size=512&id=6BmXkftCQhH8&format=png" alt="Twitter" height="50" width="50"/></a>
-<a href="https://www.instagram.com/_.sourcecode._/" target="_blank"><img src="https://img.icons8.com/?size=512&id=YtpeVQhQ8USm&format=png" alt="Instagram" height="50" width="50"/></a>
-<a href="https://www.youtube.com/channel/UCJWp7G3LM2-b2tFMT-eyrAA" target="_blank"><img src="https://img.icons8.com/?size=512&id=XnsQJWiCOaJw&format=png" alt="YouTube" height="50" width="50"/></a>
-<a href="https://app.hackthebox.com/profile/1104708" target="_blank"><img src="http://www.hackthebox.com/badge/image/1104708" alt="Hack The Box" height="50"/></a>
+<a href="https://shabari-portfolio.onrender.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=htmx&theme=dark" alt="Portfolio" height="40" />
+</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shabari-k-s-56421822a) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/shabari0910) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_.sourcecode._/) 
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1104708)
