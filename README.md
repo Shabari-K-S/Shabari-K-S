@@ -21,6 +21,7 @@
 <a href="https://shabari-portfolio.onrender.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=htmx&theme=dark" alt="Portfolio" height="40" />
 </a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shabari-k-s-56421822a) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/shabari0910) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_.sourcecode._/) 
