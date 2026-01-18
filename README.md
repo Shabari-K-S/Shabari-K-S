@@ -18,11 +18,8 @@
 
 ## Connect With Me 🤝
 
-<a href="https://shabari-portfolio.onrender.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=htmx&theme=dark" alt="Portfolio" height="40" />
-</a>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=googlechrome&logoColor=white)](https://shabari-k-s.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shabari-k-s-56421822a) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/shabari0910) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_.sourcecode._/) 
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1104708)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJWp7G3LM2-b2tFMT-eyrAA)
