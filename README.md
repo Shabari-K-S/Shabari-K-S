@@ -1,7 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 # Hi 👋, I'm Shabari K S
-
 ## Passionate about Cybersecurity & System Programming
 
 - 🔭 Currently working in **AMI**
@@ -9,6 +8,11 @@
 - 🧠 Enthusiast of **CTFs, Ethical Hacking & Reverse Engineering**
 - 💬 Ask me about **Linux, Software Development, Ethical Hacking, C/C++**
 - 📫 Reach me at **shabaricse2003@gmail.com**
+
+## 🚀 Featured Projects
+
+- **[RUI Library](https://rui-lib.vercel.app)** - Component library for modern web development
+- **[CodeFlow App](https://codeflow-app.vercel.app)** - Code management and workflow application
 
 ## Technologies That I Know 👨🏻‍💻
 
@@ -18,8 +22,26 @@
 
 ## Connect With Me 🤝
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=googlechrome&logoColor=white)](https://shabari-k-s.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shabari-k-s-56421822a) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/shabari0910) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_.sourcecode._/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJWp7G3LM2-b2tFMT-eyrAA)
+<p align="center">
+  <a href="https://shabari-k-s.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=googlechrome&logoColor=white&style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/shabari-k-s-56421822a">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/shabari0910">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/_.sourcecode._/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCJWp7G3LM2-b2tFMT-eyrAA">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shabari-k-s&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
