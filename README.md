@@ -5,8 +5,7 @@
 
 - 🔭 Currently working in **AMI**
 - 🌱 Learning and exploring **Beginner System Programming**
-- 🧠 Enthusiast of **CTFs, Ethical Hacking & Reverse Engineering**
-- 💬 Ask me about **Linux, Software Development, Ethical Hacking, C/C++**
+- 💬 Ask me about **Linux, Ethical Hacking, Full Stack Development**
 - 📫 Reach me at **shabaricse2003@gmail.com**
 
 ## 🚀 Featured Projects
