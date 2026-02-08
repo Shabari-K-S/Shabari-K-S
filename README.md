@@ -21,6 +21,10 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,rust,go,bash,linux,git,docker,mysql,postgres,nodejs,vim,tensorflow&perline=15" />
 </a>
 
+## Github Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shabari-K-S&theme=tokyonight)](https://git.io/streak-stats)
+
 ## Connect With Me 🤝
 
 <p align="center">
