@@ -13,6 +13,7 @@
 - **[RUI Library](https://rui-lib.vercel.app)** - Component library for modern web development
 - **[CodeFlow App](https://codeflow-app.vercel.app)** - Code management and workflow application
 - **[Ether OS Simulator](https://ether-web-os.vercel.app)** - A Web Based OS Simulator.
+- **[Cube Solver](https://rubiks-cube-solver-app.vercel.app)** - Your ultimate Rubik's Cube companion — solve, train, and time, all in one place.
 
 ## Technologies That I Know 👨🏻‍💻
 
